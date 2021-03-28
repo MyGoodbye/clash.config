@@ -149,6 +149,11 @@ DOMAIN-SUFFIX,sh01.shhk.zcg65qe1.ddns.tokyo
 DOMAIN-SUFFIX,g.doubleclick.net
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,launches.appsflyer.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,flzz.getxlx.com
+IP-CIDR,203.205.136.88/32
+IP-CIDR,203.205.137.89/32
+IP-CIDR,203.205.137.114/32
 IP-CIDR,10.39.145.225/32
 IP-CIDR,23.74.15.242/32
 IP-CIDR,106.75.74.76/32
