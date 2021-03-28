@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,vibeacon.onezapp.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 DOMAIN-SUFFIX,h.trace.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,googleleadservices.com
 IP-CIDR,203.205.255.99/32
 IP-CIDR,150.109.28.51/32
 IP-CIDR,91.108.56.121/32
