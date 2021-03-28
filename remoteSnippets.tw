@@ -47,6 +47,7 @@ DOMAIN-KEYWORD,play.googleapis.com
 DOMAIN-KEYWORD,acess-sg.pangle.io
 DOMAIN-SUFFIX,vibeacon.onezapp.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN-SUFFIX,h.trace.qq.com
 IP-CIDR,91.108.56.121/32
 IP-CIDR,216.58.199.99/32
 IP-CIDR,157.240.211.1/32
