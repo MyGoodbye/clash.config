@@ -139,3 +139,7 @@ DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,nfmovies.com
+
+#政府
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,gov.cn
