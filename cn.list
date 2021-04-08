@@ -13,9 +13,10 @@ DOMAIN-SUFFIX,music.163.com
 # USER-AGENT,PPStream,PROXY
 # USER-AGENT,QIYIVideo,PROXY
 # USER-AGENT,QYPlayer,PROXY
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,qy.
+#DOMAIN-SUFFIX,iqiyi.com
+#DOMAIN-SUFFIX,iqiyipic.com
+#DOMAIN-SUFFIX,qy.
+
 # > Sohu
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohu.com.cn
