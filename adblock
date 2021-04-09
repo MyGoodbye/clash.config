@@ -322,7 +322,7 @@ DOMAIN,log.ycapp.yiche.com
 # > ByteDance
 DOMAIN,ad.toutiao.com
 # > 百词斩
-DOMAIN,advertise.baicizhan.com,AdBloDOMAIN,advertise.baicizhan.org
+DOMAIN,advertise.baicizhan.com
 # (C)
 # > ChinaTelecom
 DOMAIN,ad.21cn.com
