@@ -177,6 +177,14 @@ DOMAIN-SUFFIX,nfmovies.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
 
+#qq music
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+IP-CIDR,101.91.69.43/32
+IP-CIDR,183.3.226.36/32
+IP-CIDR,106.55.97.81/32
+
 # NAME: China
 # NAME: China
 DOMAIN,analytics.strava.com
@@ -627,9 +635,6 @@ DOMAIN-SUFFIX,qiniudn.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qqmusic.qq.com
-DOMAIN-SUFFIX,y.qq.com
-DOMAIN,aqqmusic.tc.qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,qyer.com
