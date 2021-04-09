@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,music.163.com
 # USER-AGENT,QIYIVideo,PROXY
 # USER-AGENT,QYPlayer,PROXY
 DOMAIN-SUFFIX,video.iqiyi.com
-DOMAIN-SUFFIX,video.iqiyipic.com
+DOMAIN-SUFFIX,passport.iqiyi.com
+DOMAIN-SUFFIX,cmonitor.iqiyi.com
+DOMAIN-SUFFIX,l-rcd.iqiyi.com
 #DOMAIN-SUFFIX,qy.
 
 # > Sohu
