@@ -5,3 +5,4 @@ DOMAIN,www.bilibili.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acgvideo.com
+IP-CIDR,45.43.32.234/32
