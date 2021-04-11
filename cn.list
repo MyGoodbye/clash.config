@@ -41,6 +41,12 @@ DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 
+# bilibili
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,hdslb.com
+
 # > iQiyi
 # USER-AGENT,iQiYiPhoneVideo,PROXY
 # USER-AGENT,PPStream,PROXY
