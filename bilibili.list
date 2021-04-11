@@ -8,4 +8,4 @@ IP-CIDR,128.1.62.201/32
 DOMAIN,api.bilibili.com
 # 网页，没有的话无法进入网页版播放页面
 DOMAIN,www.bilibili.com
-IP-CIDR,58.222.35.200/29
+IP-CIDR,122.228.232.68/29
