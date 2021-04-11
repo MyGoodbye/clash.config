@@ -18,3 +18,5 @@ IP-CIDR,119.29.29.29/32
 IP-CIDR,150.116.92.250/32
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,grpc.biliapi.net
+DOMAIN-SUFFIX,datalow.biliapi.com
