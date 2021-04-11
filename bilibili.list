@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN,api.bilibili.com
 IP-CIDR,150.116.92.250/32
 DOMAIN,www.bilibili.com
+DOMAIN-SUFFIX,hdslb.com
