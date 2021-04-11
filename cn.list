@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
+DOMAIN-SUFFIX,grpc.biliapi.net
 IP-CIDR,106.75.74.76/32
 IP-CIDR,111.206.25.147/32
 IP-CIDR,119.29.29.29/32
