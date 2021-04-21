@@ -288,6 +288,11 @@ IP-CIDR,203.119.243.244/32
 IP-CIDR,125.78.252.151/32
 IP-CIDR,59.82.29.148/32
 
+#weibo
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-KEYWORD,weibo
 
 # NAME: China
 # NAME: China
@@ -851,9 +856,6 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webqxs.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weiphone.com
