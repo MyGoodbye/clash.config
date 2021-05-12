@@ -30,3 +30,4 @@ PROCESS-NAME,com.tencent.qqlivei18n.us
 
 DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msg-intl.qy.net
+IP-CIDR,118.26.32.178/32
