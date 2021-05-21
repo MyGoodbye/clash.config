@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 #DOMAIN-SUFFIX,vibeacon.onezapp.com
 #DOMAIN-SUFFIX,oth.eve.mdt.qq.com
-#PROCESS-NAME,com.tencent.qqlivei18n.us
+PROCESS-NAME,com.tencent.qqlivei18n.us
 DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msg-intl.qy.net
 DOMAIN-SUFFIX,trace.intl.iqiyi.com
