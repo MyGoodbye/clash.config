@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,trace.intl.iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,qy.com
-DOMAIN-SUFFI.qiyi.com
+DOMAIN-SUFFI,qiyi.com
+DOMAIN-SUFFIX,iq.com
 #IP-CIDR,118.26.32.178/32
 #IP-CIDR,180.102.211.16/32
