@@ -34,8 +34,8 @@ DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msg-intl.qy.net
 DOMAIN-SUFFIX,trace.intl.iqiyi.com
 #DOMAIN-SUFFIX,snssdk.com
-#DOMAIN-SUFFIX,e.qq.com
-#DOMAIN-SUFFIX,qzs.qq.com
-#DOMAIN-SUFFIX,k.v.qq.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qy.com
+DOMAIN-SUFFI.qiyi.com
 #IP-CIDR,118.26.32.178/32
 #IP-CIDR,180.102.211.16/32
