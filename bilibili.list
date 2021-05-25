@@ -13,5 +13,5 @@ IP-CIDR,128.1.62.201/32
 # APP
 # 网页，没有的话无法进入网页版播放页面
 DOMAIN-SUFFIX,grpc.biliapi.net
-DOMAIN-SUFFIX,bilibili.com
+DOMAIN,bilibili.com
 DOMAIN,www.bilibili.com
