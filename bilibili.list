@@ -33,3 +33,15 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
+
+#iqiyi
+DOMAIN-SUFFIX,msg.qy.net
+DOMAIN-SUFFIX,msg-intl.qy.net
+DOMAIN-SUFFIX,trace.intl.iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qy.com
+DOMAIN-SUFFI,qiyi.com
+DOMAIN-SUFFIX,iq.com
+IP-CIDR,118.26.32.178/32
+IP-CIDR,180.102.211.16/32
