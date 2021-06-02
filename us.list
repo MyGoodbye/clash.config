@@ -1,6 +1,16 @@
 #voice
 DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,l.google.com
+DOMAIN,l.google.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleapis.com
+IP-CIDR,220.243.141.87/32
+IP-CIDR,47.246.4.145/32
+IP-CIDR,47.246.2.226/32
+IP-CIDR,47.246.24.232/32
+IP-CIDR,47.246.24.231/32
+IP-CIDR,101.36.166.16/32
+IP-CIDR,220.243.141.110/32
+IP-CIDR,203.205.255.220/32
 
 #hulu
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
