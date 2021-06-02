@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,lens.l.google.com
 DOMAIN-SUFFIX,l.google.com
-IP-CIDR,74.125.23.127/32
+IP-CIDR,216.239.36.145/32
 
 #hulu
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
