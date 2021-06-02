@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,.youtube
 DOMAIN-SUFFIX,ggpht.cn 
 DOMAIN-SUFFIX,ggpht.com 
 DOMAIN-SUFFIX,googlevideo.com 
-DOMAIN-SUFFIX,gvt2.com 
 DOMAIN-SUFFIX,withyoutube.com 
 DOMAIN-SUFFIX,youtu.be 
 DOMAIN-SUFFIX,youtube-nocookie.com 
@@ -336,9 +335,6 @@ DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,beacons.gcp.gvt2.com
-DOMAIN-SUFFIX,beacons.gvt2.com
-DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,c.admob.com
 DOMAIN-SUFFIX,c.android.clients.google.com
@@ -382,10 +378,6 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,madewithcode.com
