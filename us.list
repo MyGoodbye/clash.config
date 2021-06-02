@@ -1,10 +1,5 @@
 #voice
 DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,beacons3.gvt2.com
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,l.google.com
 
 #hulu
