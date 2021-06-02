@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,obs.line-scdn.net
 DOMAIN-SUFFIX,profile.line-scdn.net
 DOMAIN-SUFFIX,platform-lookaside.fbsbx
 DOMAIN-SUFFIX,a.line.me
-DOMAIN-SUFFIX,pubads.g.doubleclick.net
+#DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,tv-img.pstatic.net
 DOMAIN-SUFFIX,global-nvapis.line.me
 DOMAIN-SUFFIX,lan3rd.line.me
