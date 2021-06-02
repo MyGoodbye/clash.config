@@ -1,5 +1,6 @@
 #voice
 DOMAIN-SUFFIX,telephony.goog
+IP-CIDR,74.125.23.127/32
 
 #hulu
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
