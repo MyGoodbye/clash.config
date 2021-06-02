@@ -1,5 +1,6 @@
 #voice
 DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN,l.google.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleapis.com
