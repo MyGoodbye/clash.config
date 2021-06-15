@@ -20,6 +20,7 @@ IP-CIDR,203.107.1.34/32
 IP-CIDR,203.107.1.65/32
 IP-CIDR,203.107.1.66/32
 IP-CIDR,45.43.32.234/32
+IP-CIDR,118.26.252.226/32
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,v.smtcdns.com
@@ -29,4 +30,5 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,vibeacon.onezapp.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
 PROCESS-NAME,com.tencent.qqlivei18n.us
