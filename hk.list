@@ -441,3 +441,7 @@ DOMAIN-SUFFIX,nowe.hk
 
 DOMAIN-SUFFIX,gw.line.naver.jp
 DOMAIN-SUFFIX,getui.com
+
+#emby
+DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,emby.immtel.com
