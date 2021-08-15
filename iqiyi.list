@@ -8,6 +8,14 @@ DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,csi.gstatic.com
+DOMAIN-SUFFIX,sc-static.net
+DOMAIN-SUFFIX,sb.scorecardresearch.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,tr.snapchat.com
+DOMAIN-SUFFIX,edgedl.me.gvt1.com
+DOMAIN-SUFFIX,e2clock.gcp.gvt2.com
+IP-CIDR,239.255.255.250/32
+IP-CIDR,224.0.0.251/32
 IP-CIDR,118.26.32.178/32
 IP-CIDR,180.102.211.16/32
 IP-CIDR,101.32.104.41/32
