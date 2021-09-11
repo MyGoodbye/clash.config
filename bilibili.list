@@ -14,6 +14,7 @@ IP-CIDR,128.1.62.201/32
 # APP
 DOMAIN,api.bilibili.com
 PROCESS-NAME,com.bilibili.app.in
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 # 网页，没有的话无法进入网页版播放页面
 DOMAIN,www.bilibili.com
 
