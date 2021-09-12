@@ -7,13 +7,6 @@ USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,music.youtube.com
 
-#bilibili
-# 香港
-IP-CIDR,45.43.32.234/32
-IP-CIDR,164.52.76.18/32
-IP-CIDR,128.1.62.200/32
-IP-CIDR,128.1.62.201/32
-
 # YouTubeDOMAIN
 DOMAIN-SUFFIX,.youtube 
 DOMAIN-SUFFIX,ggpht.cn 
