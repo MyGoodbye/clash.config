@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,cache.video.iqiyi.com
 DOMAIN-SUFFIX,cache.video.qiyi.com
 DOMAIN-SUFFIX,subscription.iqiyi.com
-DOMAIN-SUFFIX,l.rcd.iqiyi.com
+DOMAIN-SUFFIX,iqiyi.com
 #tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
