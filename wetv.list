@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,v.smtcdns.net
 DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
-IP-CIDR,150.109.28.51/32,no-resolve
+IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us
-DOMAIN,wetv.tv.qq.com
-DOMAIN,wetv.acc.qq.com
-
