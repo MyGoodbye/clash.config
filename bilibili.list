@@ -18,3 +18,10 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 # 网页，没有的话无法进入网页版播放页面
 DOMAIN,www.bilibili.com
 
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,biliintl.com
+
