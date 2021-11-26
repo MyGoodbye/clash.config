@@ -3,3 +3,9 @@ DOMAIN-SUFFIX,cache.video.iqiyi.com
 DOMAIN-SUFFIX,cache.video.qiyi.com
 DOMAIN-SUFFIX,subscription.iqiyi.com
 DOMAIN-SUFFIX,l.rcd.iqiyi.com
+DOMAIN-SUFFIX,intel.iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,intl.qy.net
+DOMAIN-SUFFIX,data.video.iqiyi.com
+IP-CIDR,148.153.189.2/32
+IP-CIDR,148.153.189.6/32
