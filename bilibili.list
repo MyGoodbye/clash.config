@@ -25,3 +25,6 @@ DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,biliintl.com
 
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,acgvideo.com
+IP-CIDR,119.29.29.29/32
