@@ -27,4 +27,18 @@ DOMAIN-SUFFIX,biliintl.com
 
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
 IP-CIDR,119.29.29.29/32
