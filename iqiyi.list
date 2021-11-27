@@ -14,7 +14,6 @@ DOMAIN,intl-subscription.iqiyi.com
 DOMAIN-SUFFIX,inter.ptqy.gitv.tv
 DOMAIN-SUFFIX,intl.iqiyi.com
 DOMAIN-SUFFIX,iq.com
-DOMAIN-KEYWORD,qiyi,iQiyi
 
 IP-CIDR,103.44.56.0/22,no-resolve
 IP-CIDR,118.26.120.0/24,no-resolve
