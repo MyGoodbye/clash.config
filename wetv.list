@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,vibeacon.onezapp.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 DOMAIN-SUFFIX,puui.qpic.cn
 DOMAIN-SUFFIX,ucloudlink.com
+DOMAIN-SUFFIX,pubads.g.doubleclick.net
+DOMAIN-SUFFIX,yixuedianzishu.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,fliplc.getxlx.com
 IP-CIDR,150.109.28.51/32
 IP-CIDR,198.18.2.22/32
 IP-CIDR,198.18.2.23/32
