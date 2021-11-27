@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,video.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,vibeacon.onezapp.com
+DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN-SUFFIX,puui.qpic.cn
+DOMAIN-SUFFIX,ucloudlink.com
 IP-CIDR,150.109.28.51/32
 IP-CIDR,198.18.2.22/32
 IP-CIDR,198.18.2.23/32
@@ -18,5 +23,6 @@ IP-CIDR,129.226.102.98/32
 IP-CIDR,198.18.0.101/32
 IP-CIDR,198.18.1.49/32
 IP-CIDR,198.18.0.210/32
+IP-CIDR,54.223.161.33/32
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us
