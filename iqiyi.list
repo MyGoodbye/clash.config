@@ -63,5 +63,30 @@ DOMAIN-SUFFIX,suike.cn
 DOMAIN-KEYWORD,qiyi
 IP-CIDR,223.119.62.224/28,no-resolve
 
+#bahamut
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,chocotv.com.tw
+
+#linetv
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,linetv.tw
+PROCESS-NAME,com.linecorp.linte
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+
 
 
