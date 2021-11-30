@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,soft.nfmovies.com
 
 #wechat
 DOMAIN-SUFFIX,sgshort.wechat.com
+
+# douyin
+DOMAIN-SUFFIX,douyin.com
