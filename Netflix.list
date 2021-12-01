@@ -253,7 +253,7 @@ PROCESS-NAME,com.disney.disneyplus
 # apple
 DOMAIN,developer.apple.com
 DOMAIN-SUFFIX,digicert.com
-PROCESS-NAME,trustd,Proxy
+PROCESS-NAME,trustd
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN,testflight.apple.com
 DOMAIN,sandbox.itunes.apple.com
