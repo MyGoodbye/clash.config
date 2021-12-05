@@ -7,7 +7,8 @@ USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,music.youtube.com
 
-# YouTubeDOMAIN
+# YouTube
+DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,.youtube 
 DOMAIN-SUFFIX,ggpht.cn 
 DOMAIN-SUFFIX,ggpht.com 
