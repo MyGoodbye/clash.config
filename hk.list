@@ -447,3 +447,6 @@ IP-CIDR,35.162.223.131/32
 IP-CIDR,3.87.109.100/32
 
 DOMAIN-SUFFIX,gfw.report
+
+#disney
+DOMAIN-SUFFIX,global.edge.bamgrid.com
