@@ -37,4 +37,17 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,tc.qq.com
 DOMAIN-SUFFIX,hk.tencent.com
 IP-CIDR,124.156.122.79/32
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,szmg.qq.com
+DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,oth.str.mdt.qq.com
+DOMAIN-SUFFIX,ios.rqd.qq.com
+DOMAIN-SUFFIX,ab.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+IP-CIDR,150.109.28.51/32
+IP-CIDR,203.205.255.99/32
+IP-CIDR,150.109.190.44/32
+DOMAIN-SUFFIX,qpic.cn
 
