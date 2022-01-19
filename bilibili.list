@@ -16,3 +16,8 @@ DOMAIN,api.bilibili.com
 # 网页，没有的话无法进入网页版播放页面
 DOMAIN,www.bilibili.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+# APP搜索仅限港澳台
+IP-CIDR,203.107.1.0/24,
+IP-CIDR,120.240.49.0/24
+# 网站搜索
+DOMAIN,search.bilibili.com
