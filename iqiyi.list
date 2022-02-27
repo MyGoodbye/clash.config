@@ -1,9 +1,17 @@
 # iqiyi
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,71.am
+DOMAIN-KEYWORD,qiyi
+# 爱奇艺检测ip
+DOMAIN,cache.video.iqiyi.com
 DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
 DOMAIN-SUFFIX,intl-subscription.iqiyi.com
 DOMAIN-SUFFIX,intl.iqiyi.com
-DOMAIN-SUFFIX,iq.com
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
 IP-CIDR,118.26.32.162/32,no-resolve
@@ -18,9 +26,6 @@ IP-CIDR,23.211.15.0/24,no-resolve
 IP-CIDR,23.219.172.0/24,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,23.59.252.0/24,no-resolve
-PROCESS-NAME,com.iqiyi.i18n
-PROCESS-NAME,com.iqiyi.i18n.tv
-DOMAIN-SUFFIX,qy.net
 IP-CIDR,101.227.0.0/16,no-resolve
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,119.176.0.0/12,no-resolve
