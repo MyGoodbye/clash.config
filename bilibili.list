@@ -21,3 +21,9 @@ IP-CIDR,203.107.1.0/24,
 IP-CIDR,120.240.49.0/24
 # 网站搜索
 DOMAIN,search.bilibili.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,biliintl.com
