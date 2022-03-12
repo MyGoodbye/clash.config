@@ -115,17 +115,6 @@ DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
 
-# apple
-DOMAIN,developer.apple.com
-DOMAIN-SUFFIX,digicert.com
-PROCESS-NAME,trustd
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN,testflight.apple.com
-DOMAIN,sandbox.itunes.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,blobstore.apple.com
-DOMAIN,cvws.icloud-content.com
 
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
