@@ -129,3 +129,5 @@ IP-CIDR,120.92.153.217/32,no-resolve
 IP-CIDR,134.175.207.130/32,no-resolve
 PROCESS-NAME,com.bilibili.app.in
 PROCESS-NAME,tv.danmaku.bili
+
+DOMAIN-SUFFIX,gagaoolala.com
