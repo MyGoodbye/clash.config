@@ -60,17 +60,3 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,hamivideo.hinet.net
-
-DOMAIN-SUFFIX,blobstore.apple.com
-DOMAIN-SUFFIX,itsliveradio.apple.com
-DOMAIN-SUFFIX,aodp-ssl.apple.com
-DOMAIN-SUFFIX,video-ssl.itunes.apple.com
-DOMAIN-SUFFIX,mvod.itunes.apple.com
-DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
-DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,audio.itunes.apple.com
-
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,client-api.itunes.apple.com
