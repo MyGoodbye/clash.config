@@ -86,7 +86,7 @@ IP-CIDR6,2607:fb10::/32
 IP-CIDR6,2620:10c:7000::/44
 IP-CIDR6,2a00:86c0::/32
 IP-CIDR6,2a03:5640::/32
-PROCESS-NAME,com.netflix.mediaclient
+#PROCESS-NAME,com.netflix.mediaclient
 
 #亚马逊视频
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -113,7 +113,7 @@ DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
-PROCESS-NAME,com.amazon.avod.thirdpartyclient
+#PROCESS-NAME,com.amazon.avod.thirdpartyclient
 
 
 DOMAIN-SUFFIX,bilibili.com
