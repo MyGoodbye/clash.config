@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
-PROCESS-NAME,com.linecorp.linte
+#PROCESS-NAME,com.linecorp.linte
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com
