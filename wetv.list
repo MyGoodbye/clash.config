@@ -29,8 +29,8 @@ IP-CIDR,198.18.0.101/32
 IP-CIDR,198.18.1.49/32
 IP-CIDR,198.18.0.210/32
 IP-CIDR,54.223.161.33/32
-#PROCESS-NAME,com.tencent.qqlivei18n
-#PROCESS-NAME,com.tencent.qqlivei18n.us
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,app-measurement.com
