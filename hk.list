@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,joox.com
 DOMAIN-KEYWORD,jooxweb-api
 
+DOMAIN-SUFFIX,V2x.com
+
 # Youtube Music
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
