@@ -220,6 +220,7 @@ DOMAIN-SUFFIX,getui.com
 
 #emby
 DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.immtel.com
 
 #SWITCH
