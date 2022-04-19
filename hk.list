@@ -6,27 +6,6 @@ PROCESS-NAME,com.tencent.ibg.joox
 #v2ex
 DOMAIN-SUFFIX,v2ex.com
 
-# Youtube Music
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtubemusic*
-DOMAIN-SUFFIX,music.youtube.com
-
-# YouTube
-DOMAIN-KEYWORD,youtube
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-
 #Telegram
 DOMAIN-SUFFIX,t.me 
 DOMAIN-SUFFIX,tdesktop.com 
