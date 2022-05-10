@@ -11,7 +11,6 @@ PROCESS-NAME,com.linecorp.linetv
 #litv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 #LINE
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
