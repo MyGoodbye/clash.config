@@ -154,19 +154,11 @@ DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 
 #bahamut
+DOMAIN,bahamut.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN,d17lx9ucc6k9fc.cloudfront.net
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,d151l6v8er5bdm.cloudfront.net
-DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
-DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
-DOMAIN,d349g9zuie06uo.cloudfront.net
-DOMAIN-SUFFIX,chocotv.com.tw
 
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN,kktv-theater.kk.stream
