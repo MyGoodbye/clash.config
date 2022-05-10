@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 PROCESS-NAME,com.linecorp.linetv
-#litv
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,litv.tv
 #LINE
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
