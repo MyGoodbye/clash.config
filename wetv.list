@@ -9,7 +9,13 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
-PROCESS-NAME,com.tencent.qqlivei18n.us
+#PROCESS-NAME,com.tencent.qqlivei18n.us
 IP-CIDR,150.109.190.0/28
+PROCESS-NAME,com.ktcp.osvideo
+DOMAIN,wetv.tv.qq.com
+DOMAIN,wetv.acc.qq.com
+DOMAIN,hwvip.video.qq.com
+IP-CIDR,150.109.28.51/32,no-resolve
+
 
 DOMAIN-SUFFIX,aisplay.ais.co.th
