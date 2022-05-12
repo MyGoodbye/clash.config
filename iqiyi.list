@@ -4,8 +4,14 @@ PROCESS-NAME,com.iqiyi.i18n.tv
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,intl.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
+DOMAIN-SUFFIX,cupid.iqiyi.com
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,scs-hcdn.iqiyi.com
+DOMAIN-SUFFIX,meta.video.iqiyi.com
+DOMAIN-SUFFIX,qtlcdn.com
+DOMAIN-SUFFIX,api.skk.moe
 DOMAIN,intl-subscription.iqiyi.com
-DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
+DOMAIN,inter.iqiyi.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
