@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,puui.qpic.cn
 DOMAIN-SUFFIX,soup.v.qq.com
+DOMAIN-SUFFIX,ioshost.qtlcdn.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
@@ -21,6 +23,10 @@ DOMAIN,wetv.tv.qq.com
 DOMAIN,wetv.acc.qq.com
 DOMAIN,hwvip.video.qq.com
 IP-CIDR,150.109.28.51/32,no-resolve
-
+IP-CIDR,101.32.133.53/32
+IP-CIDR,17.253.68.251/32
+IP-CIDR,17.253.68.253/32
+IP-CIDR,17.253.84.125/32
+IP-CIDR,23.217.124.93/32
 
 DOMAIN-SUFFIX,aisplay.ais.co.th
