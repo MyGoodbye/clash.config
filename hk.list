@@ -6,6 +6,8 @@ PROCESS-NAME,com.tencent.ibg.joox
 #v2ex
 DOMAIN-SUFFIX,v2ex.com
 
+DOMAIN-SUFFIX,kkbox.com
+
 #Telegram
 DOMAIN-SUFFIX,t.me 
 DOMAIN-SUFFIX,tdesktop.com 
