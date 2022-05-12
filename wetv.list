@@ -9,10 +9,12 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,puui.qpic.cn
+DOMAIN-SUFFIX,soup.v.qq.com
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
 IP-CIDR,150.109.190.0/24
+IP-CIDR,150.109.191.17/32
 PROCESS-NAME,com.ktcp.osvideo
 DOMAIN,wetv.tv.qq.com
 DOMAIN,wetv.acc.qq.com
