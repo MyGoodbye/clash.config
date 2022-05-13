@@ -198,7 +198,6 @@ DOMAIN-KEYWORD,www.google.
 IP-CIDR,173.194.0.0/16
 IP-CIDR,74.125.0.0/16
 
-DOMAIN-SUFFIX,gw.line.naver.jp
 DOMAIN-SUFFIX,getui.com
 
 #emby
