@@ -101,7 +101,6 @@ IP-CIDR,69.63.176.0/20
 IP-CIDR,74.119.76.0/22
 
 #google
-DOMAIN-SUFFIX,.youtube
 DOMAIN-SUFFIX,play.googleapis.com
 IP-CIDR,216.239.36.145/32
 DOMAIN-SUFFIX,265.com
@@ -187,9 +186,6 @@ DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
