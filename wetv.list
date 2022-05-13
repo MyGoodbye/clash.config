@@ -11,10 +11,8 @@ DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,puui.qpic.cn
 DOMAIN-SUFFIX,soup.v.qq.com
-DOMAIN-SUFFIX,ioshost.qtlcdn.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,wuji.video.qq.com
-DOMAIN-SUFFIX,ios.bugly.qcloud.com
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
