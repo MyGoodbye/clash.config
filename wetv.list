@@ -19,6 +19,14 @@ DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,wuji.video.qq.com
 DOMAIN-SUFFIX,ioshost.qtlcdn.com
 DOMAIN-SUFFIX,ios.bugly.qcloud.com
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN-SUFFIX,appcfg.v.qq.com
+DOMAIN-SUFFIX,config.ab.qq.com
+DOMAIN-SUFFIX,onezapp.com
+DOMAIN-SUFFIX,content.rfix.tdos.vip
+DOMAIN-SUFFIX,turingfraud.net
+DOMAIN-SUFFIX,szmg.qq.com
+DOMAIN-SUFFIX,trace.qq.com
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
@@ -35,5 +43,11 @@ IP-CIDR,17.253.68.253/32
 IP-CIDR,17.253.84.125/32
 IP-CIDR,23.217.124.93/32
 IP-CIDR,111.202.1.250/32
+IP-CIDR,119.28.123.116/32
+IP-CIDR,119.29.29.98/32
+IP-CIDR,123.6.16.242/32
+IP-CIDR,17.253.26.253/32
+IP-CIDR,17.253.16.125/32
+IP-CIDR,17.253.26.125/32
 
 DOMAIN-SUFFIX,aisplay.ais.co.th
