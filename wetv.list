@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,puui.qpic.cn
 DOMAIN-SUFFIX,soup.v.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,sglong.wechat.com
+DOMAIN-SUFFIX,ettdnsv.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,wuji.video.qq.com
 DOMAIN-SUFFIX,ioshost.qtlcdn.com
 DOMAIN-SUFFIX,ios.bugly.qcloud.com
@@ -30,5 +34,6 @@ IP-CIDR,17.253.68.251/32
 IP-CIDR,17.253.68.253/32
 IP-CIDR,17.253.84.125/32
 IP-CIDR,23.217.124.93/32
+IP-CIDR,111.202.1.250/32
 
 DOMAIN-SUFFIX,aisplay.ais.co.th
