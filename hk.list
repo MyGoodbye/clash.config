@@ -806,6 +806,7 @@ DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
 PROCESS-NAME,backupandsync
 DOMAIN-KEYWORD,www.google.
+DOMAIN,lens.l.google.com
 
 DOMAIN-SUFFIX,getui.com
 
