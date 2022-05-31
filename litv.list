@@ -65,10 +65,6 @@ DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,pv-cdn.net
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 DOMAIN,aod-dash-uk-live.akamaized.net
