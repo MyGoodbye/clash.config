@@ -12,6 +12,7 @@ PROCESS-NAME,com.linecorp.linetv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,zego.im
+IP-CIDR,210.242.135.26/32,no-resolve
 #LINE
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
