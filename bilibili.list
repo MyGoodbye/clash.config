@@ -17,6 +17,9 @@ IP-CIDR,203.205.235.53/32,no-resolve
 IP-CIDR,103.151.151.2/32,no-resolve
 IP-CIDR,164.52.39.46/32,no-resolve
 IP-CIDR,120.92.218.147/32,no-resolve
+IP-CIDR,103.151.151.3/32,no-resolve
+IP-CIDR,103.151.151.130/32,no-resolve
+
 # > 港台版 Bilibili App
 # USER-AGENT,bili-inter*
 PROCESS-NAME,com.bilibili.app.in
