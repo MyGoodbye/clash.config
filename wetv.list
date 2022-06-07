@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,appcfg.v.qq.com
 DOMAIN-SUFFIX,config.ab.qq.com
 DOMAIN-SUFFIX,szmg.qq.com
 DOMAIN-SUFFIX,trace.qq.com
+DOMAIN-SUFFIX,tencent-cloud.net
 IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
