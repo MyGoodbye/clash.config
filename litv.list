@@ -16,6 +16,11 @@ IP-CIDR,104.18.225.52/32,no-resolve
 IP-CIDR,3.227.250.193/32,no-resolve
 IP-CIDR,52.84.251.122/32,no-resolve
 IP-CIDR,119.161.15.251/32,no-resolve
+IP-CIDR,13.224.160.113/32,no-resolve
+IP-CIDR,17.248.152.143/32,no-resolve
+IP-CIDR,3.91.171.218/32,no-resolve
+IP-CIDR,54.192.19.85/32,no-resolve
+IP-CIDR,209.73.190.12/32,no-resolve
 
 #litv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
