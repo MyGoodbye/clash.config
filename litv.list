@@ -8,6 +8,15 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 PROCESS-NAME,com.linecorp.linetv
+IP-CIDR,13.225.94.115/32,no-resolve
+IP-CIDR,13.225.94.88/32,no-resolve
+IP-CIDR,13.251.95.231/32,no-resolve
+IP-CIDR,142.250.66.34/32,no-resolve
+IP-CIDR,104.18.225.52/32,no-resolve
+IP-CIDR,3.227.250.193/32,no-resolve
+IP-CIDR,52.84.251.122/32,no-resolve
+IP-CIDR,119.161.15.251/32,no-resolve
+
 #litv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
