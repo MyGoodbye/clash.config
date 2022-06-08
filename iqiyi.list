@@ -22,6 +22,7 @@ DOMAIN,intel-cache.video.iqiyi.com
 DOMAIN-SUFFIX,www.iq.com
 DOMAIN-SUFFIX,qosp.iqiyi.com
 DOMAIN-SUFFIX,intl-sns.iqiyi.com
+DOMAIN-SUFFIX,iface2.iqiyi.com
 IP-CIDR,23.59.252.0/24,no-resolve
 IP-CIDR,23.200.145.146/32,no-resolve
 IP-CIDR,23.210.215.186/32,no-resolve
