@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,tdnsdp1.cn
 DOMAIN-SUFFIX,appsflyer.com
 
+DOMAIN-SUFFIX,googleapis.com
+
 #tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
