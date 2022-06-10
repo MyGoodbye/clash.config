@@ -17,6 +17,7 @@ IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,159.138.102.146/32,no-resolve
 
+DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
 DOMAIN-SUFFIX,www.iq.com
