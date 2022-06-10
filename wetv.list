@@ -1,5 +1,7 @@
 #wetv
 #DOMAIN-SUFFIX,mfm.video.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,v.smtcdns.com
