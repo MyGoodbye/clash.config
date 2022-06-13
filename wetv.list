@@ -29,7 +29,6 @@ PROCESS-NAME,com.tencent.qqlivei18n
 #PROCESS-NAME,com.tencent.qqlivei18n.us
 IP-CIDR,150.109.190.0/24
 IP-CIDR,150.109.191.17/32
-IP-CIDR,17.253.26.253/32
 PROCESS-NAME,com.ktcp.osvideo
 DOMAIN,wetv.tv.qq.com
 DOMAIN,wetv.acc.qq.com
