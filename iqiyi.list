@@ -14,6 +14,9 @@ IP-CIDR,8.219.137.173/32,no-resolve
 
 DOMAIN-SUFFIX,api16-access-gcp.pangle.io
 DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,opencdniqiyi.jomodns.com
+
+IP-CIDR,61.168.100.32/32,no-resolve
 IP-CIDR,23.59.252.0/24,no-resolve
 IP-CIDR,23.200.145.146/32,no-resolve
 IP-CIDR,23.210.215.186/32,no-resolve
