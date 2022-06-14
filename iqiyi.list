@@ -9,6 +9,8 @@ DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,159.138.102.146/32,no-resolve
+IP-CIDR,8.138.94.6/32,no-resolve
+IP-CIDR,8.219.137.173/32,no-resolve
 
 DOMAIN-SUFFIX,api16-access-gcp.pangle.io
 DOMAIN-SUFFIX,iqiyipic.com
