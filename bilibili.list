@@ -58,3 +58,6 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,friday.tw
 DOMAIN-KEYWORD,tw
+IP-CIDR,17.253.68.253/32,no-resolve
+IP-CIDR,17.253.68.251/32,no-resolve
+IP-CIDR,17.253.84.125/32,no-resolve
