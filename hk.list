@@ -812,7 +812,9 @@ DOMAIN-SUFFIX,getui.com
 
 #emby
 DOMAIN-KEYWORD,emby
-DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.immtel.com
 
 #SWITCH
