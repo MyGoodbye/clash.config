@@ -811,6 +811,9 @@ DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,getui.com
 
 #emby
+IP-CIDR,149.154.164.250/32
+IP-CIDR,91.108.56.121/32
+IP-CIDR,149.154.175.56/32
 DOMAIN-KEYWORD,emby
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
