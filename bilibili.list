@@ -1,38 +1,12 @@
 #bilibili
-PROCESS-NAME,tv.danmaku.bili
-DOMAIN-SUFFIX,bilibili.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,cn-hk-eq-bcache-
-IP-CIDR,203.107.1.65/32,no-resolve
-IP-CIDR,203.205.235.53/32,no-resolve
-IP-CIDR,103.151.151.2/32,no-resolve
-IP-CIDR,164.52.39.46/32,no-resolve
-IP-CIDR,120.92.218.147/32,no-resolve
-IP-CIDR,103.151.151.3/32,no-resolve
-IP-CIDR,103.151.151.130/32,no-resolve
-IP-CIDR,164.52.76.18/32,no-resolve
-IP-CIDR,164.52.33.179/32,no-resolve
-IP-CIDR,134.175.207.132/32,no-resolve
-
-# > 港台版 Bilibili App
-# USER-AGENT,bili-inter*
-PROCESS-NAME,com.bilibili.app.in
-DOMAIN,apiintl.biliapi.net
-DOMAIN-SUFFIX,data.bilicdn2.com
-DOMAIN-SUFFIX,ksyuncdn.com
-DOMAIN-SUFFIX,tdnsdp1.cn
-DOMAIN-SUFFIX,appsflyer.com
-
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,biliintl.com
+PROCESS-NAME,com.bstar.intl
 
 #tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
