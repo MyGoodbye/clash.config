@@ -20,6 +20,5 @@ DOMAIN-SUFFIX,otheve.beacon.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,aegis.qq.com
 DOMAIN-SUFFIX,aisee.qq.com
-IP-CIDR,150.109.28.51/32,no-resolve
-IP-CIDR,101.32.133.53/32
+DOMAIN-SUFFIX,ios.bugly.qcloud.com
 
