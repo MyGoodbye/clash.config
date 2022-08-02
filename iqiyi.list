@@ -3,15 +3,10 @@
 #IP-CIDR,8.138.94.6/32,no-resolve
 #IP-CIDR,8.219.137.173/32,no-resolve
 
-DOMAIN-SUFFIX,api.iqiyi.com
+DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,opencdniqiyi.jomodns.com
-DOMAIN-SUFFIX,v6.iqiyi.com
-DOMAIN-SUFFIX,intl.policy.iqiyi.com
-DOMAIN-SUFFIX,video.iqiyi.com
-DOMAIN-SUFFIX,ip.geo.iqiyi.com
 DOMAIN-SUFFIX,api.iq.com.edgekey.net
-DOMAIN-SUFFIX,iface2.iqiyi.com
 
 DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
