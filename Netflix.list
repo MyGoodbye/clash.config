@@ -114,7 +114,3 @@ DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
 #PROCESS-NAME,com.amazon.avod.thirdpartyclient
-
-
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
