@@ -6,6 +6,7 @@ DOMAIN,upos-sz-mirrorcosov.bilivideo.com
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 IP-CIDR,45.43.32.234/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
