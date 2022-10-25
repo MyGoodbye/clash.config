@@ -1780,3 +1780,4 @@ PROCESS-NAME,music
 PROCESS-NAME,news
 PROCESS-NAME,lookupviewservice
 PROCESS-NAME,tv
+DOMAIN-SUFFIX,ioshost.qtlcdn.com
