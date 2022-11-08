@@ -1,10 +1,14 @@
 # iqi itl
 DOMAIN,cache.video.iqiyi.com
 DOMAIN-SUFFIX,inter.iqiyi.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
 DOMAIN-SUFFIX,intl-subscription.iqiyi.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,intl.iqiyi.com
+DOMAIN-SUFFIX,scs-hcdn.iqiyi.com
+DOMAIN-SUFFIX,data.video.iqiyi.com
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
 IP-CIDR,118.26.32.162/32,no-resolve
