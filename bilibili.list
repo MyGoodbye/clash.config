@@ -1,6 +1,6 @@
 #bilibili
 DOMAIN-SUFFIX,apm-misaka.biliapi.net 
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+#DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
 DOMAIN-SUFFIX,p.bstarstatic.com 
 DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net 
 DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
