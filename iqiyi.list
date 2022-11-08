@@ -77,3 +77,4 @@ IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,23.53.32.88/32,no-resolve
 PROCESS-NAME,com.qiyi.video
+IP-CIDR,163.177.222.251/32
