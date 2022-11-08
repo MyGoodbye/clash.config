@@ -365,12 +365,9 @@ DOMAIN-SUFFIX,baiying.com
 DOMAIN-SUFFIX,gitv.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,ibkstore.com
-DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyi.demo.uwp
 DOMAIN-SUFFIX,iqiyiedge.com
-DOMAIN-SUFFIX,iqiyiedge.net
-DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,jiangbing.cn
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,ppsimg.com
@@ -382,11 +379,7 @@ DOMAIN-SUFFIX,ppstream.net.cn
 DOMAIN-SUFFIX,ppsurl.com
 DOMAIN-SUFFIX,qiyi.cn
 DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qy.com
-DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,suike.cn
-DOMAIN-KEYWORD,qiyi
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,103.44.56.0/22,no-resolve
 IP-CIDR,103.5.34.153/32,no-resolve
