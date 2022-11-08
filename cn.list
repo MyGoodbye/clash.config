@@ -365,7 +365,6 @@ DOMAIN-SUFFIX,baiying.com
 DOMAIN-SUFFIX,gitv.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,ibkstore.com
-DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyi.demo.uwp
 DOMAIN-SUFFIX,iqiyiedge.com
 DOMAIN-SUFFIX,jiangbing.cn
@@ -378,7 +377,6 @@ DOMAIN-SUFFIX,ppstream.net
 DOMAIN-SUFFIX,ppstream.net.cn
 DOMAIN-SUFFIX,ppsurl.com
 DOMAIN-SUFFIX,qiyi.cn
-DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,suike.cn
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,103.44.56.0/22,no-resolve
@@ -402,4 +400,3 @@ IP-CIDR,23.211.15.99/32,no-resolve
 IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,23.53.32.88/32,no-resolve
-PROCESS-NAME,com.qiyi.video
