@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,wetvinfo.com
 IP-CIDR,150.109.160.0/19,no-resolve
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us
+
+DOMAIN-KEYWORD,tencent
+DOMAIN-SUFFIX,qq.com
