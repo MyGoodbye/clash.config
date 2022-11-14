@@ -114,4 +114,5 @@ DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,watchespn.com
 
 DOMAIN,lens.l.google.com
-IP-CIDR,74.125.0.0/16
+voice.telephony.goog
+DOMAIN-SUFFIX,IP-CIDR,74.125.0.0/16
