@@ -114,5 +114,6 @@ DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,watchespn.com
 
 DOMAIN,lens.l.google.com
-
-
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,pa.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
