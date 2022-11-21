@@ -27,6 +27,8 @@ IP-CIDR,147.139.161.201/32
 IP-CIDR,159.138.107.115/32
 IP-CIDR,111.202.75.227/32
 IP-CIDR,147.139.138.212/32
+IP-CIDR,148.153.189.2/32
+IP-CIDR,148.153.189.6/32
 
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
@@ -52,3 +54,6 @@ DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,web.facebook.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,launches.appsflyer.com
+DOMAIN-SUFFIX,telemetry.sdk.inmobi.com
+DOMAIN-SUFFIX,a.akamaiedge.net
