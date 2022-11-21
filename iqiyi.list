@@ -25,6 +25,8 @@ IP-CIDR,23.46.63.72/32
 IP-CIDR,23.46.63.56/32
 IP-CIDR,147.139.161.201/32
 IP-CIDR,159.138.107.115/32
+IP-CIDR,111.202.75.227/32
+IP-CIDR,147.139.138.212/32
 
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
@@ -41,3 +43,12 @@ IP-CIDR,118.26.32.0/23,no-resolve
 IP-CIDR,118.26.120.0/24,no-resolve
 IP-CIDR,223.119.62.225/28,no-resolve
 DOMAIN,cache.video.iqiyi.com
+
+DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,bs.serving-sys.com
+DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
+DOMAIN-SUFFIX,api16-access-gcp.pangle.io
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,web.facebook.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
