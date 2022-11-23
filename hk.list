@@ -3,6 +3,12 @@ DOMAIN-SUFFIX,joox.com
 DOMAIN-KEYWORD,jooxweb-api
 PROCESS-NAME,com.tencent.ibg.joox
 
+# B站
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN,upos-sz-mirrorcosov
+
 #v2ex
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,gayvids.tube
