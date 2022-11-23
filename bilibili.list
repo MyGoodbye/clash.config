@@ -10,6 +10,14 @@ DOMAIN-SUFFIX,m.bilibili.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,www.bilibili.com
 DOMAIN-SUFFIX,bangumi.bilibili.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+PROCESS-NAME,com.bstar.intl
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
 IP-CIDR,121.11.192.0/24
 
