@@ -19,6 +19,13 @@ DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 PROCESS-NAME,com.bstar.intl
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+DOMAIN-SUFFIX,bili-dyn-sched.jcloud-cdn.com
+DOMAIN-SUFFIX,w.bilicdn1.com
+DOMAIN-SUFFIX,biliv4.c.cdnhwc1.com
+DOMAIN-SUFFIX,hcdnw.bili.c.cdnhwc2.com
+DOMAIN-SUFFIX,hcdnw.bili.c.cdnhwc2.com
+DOMAIN-SUFFIX,k1-ipv6.gslb.ksyuncdn.com
+DOMAIN-SUFFIX,activity.hdslb.com.w.kunlungr.com
 IP-CIDR,121.11.192.0/24
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
