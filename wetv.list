@@ -12,11 +12,3 @@ PROCESS-NAME,com.tencent.qqlivei18n.us
 
 DOMAIN-KEYWORD,tencent
 DOMAIN-SUFFIX,qq.com
-
-DOMAIN-SUFFIX,apm-misaka.biliapi.net 
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
-DOMAIN-SUFFIX,p.bstarstatic.com 
-DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net 
-DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
