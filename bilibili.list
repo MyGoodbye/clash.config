@@ -2,7 +2,6 @@
 DOMAIN,api.bilibili.com
 DOMAIN,api.vc.bilibili.com
 DOMAIN,apm-misaka.biliapi.net
-DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 PROCESS-NAME,com.bstar.intl
 
