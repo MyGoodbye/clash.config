@@ -2,6 +2,7 @@
 DOMAIN,cache.video.iqiyi.com
 DOMAIN,cache.video.qiyi.com
 DOMAIN,subscription.iqiyi.com
+DOMAIN,cache.m.iqiyi.com
 DOMAIN,l.rcd.iqiyi.com
 IP-CIDR,116.211.202.206/32,no-resolve
 IP-CIDR,116.211.202.216/32,no-resolve
