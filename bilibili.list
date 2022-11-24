@@ -1,9 +1,13 @@
 #bilibili
 DOMAIN,api.bilibili.com
 DOMAIN,api.vc.bilibili.com
-DOMAIN,apm-misaka.biliapi.net
-DOMAIN-SUFFIX,biliintl.com
-PROCESS-NAME,com.bstar.intl
+DOMAIN,api.biliapi.com
+DOMAIN,api.biliapi.net
+DOMAIN,app.biliapi.com
+DOMAIN,app.biliapi.net
+DOMAIN,app.bilibili.com
+DOMAIN,grpc.biliapi.net
+DOMAIN,m.bilibili.com
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
