@@ -24,6 +24,15 @@ DOMAIN-SUFFIX,hcdnw.bili.c.cdnhwc2.com
 DOMAIN-SUFFIX,k1-ipv6.gslb.ksyuncdn.com
 DOMAIN-SUFFIX,activity.hdslb.com.w.kunlungr.com
 IP-CIDR,121.11.192.0/24
+IP-CIDR,150.116.92.250/32
+# 香港
+IP-CIDR,45.43.32.234/32
+IP-CIDR,164.52.76.18/32
+IP-CIDR,128.1.62.200/32
+IP-CIDR,128.1.62.201/32
+# APP
+PROCESS-NAME,com.bilibili.app.in
+PROCESS-NAME,tv.danmaku.bili
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
