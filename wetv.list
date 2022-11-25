@@ -20,9 +20,7 @@ DOMAIN-SUFFIX,appcfg.v.qq.com
 DOMAIN-SUFFIX,m.film.qq.com
 
 DOMAIN-SUFFIX,apm-misaka.biliapi.net 
- DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
- DOMAIN-SUFFIX,p.bstarstatic.com 
- DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net 
- DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
- DOMAIN-SUFFIX,bilibili.tv
- DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+DOMAIN-SUFFIX,p.bstarstatic.com 
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
