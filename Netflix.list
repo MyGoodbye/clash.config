@@ -18,13 +18,11 @@ DOMAIN-SUFFIX,netflixdnstest10.com
 DOMAIN-SUFFIX,nflxext.com 
 DOMAIN-SUFFIX,nflximg.com 
 DOMAIN-SUFFIX,nflximg.net 
-DOMAIN-SUFFIX,nflxso.net 
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxvideo.net 
 DOMAIN-KEYWORD,dualstack.apiproxy- 
 DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb- 
 DOMAIN-KEYWORD,dualstack.ichnaea-web- 
-DOMAIN-SUFFIX,us-west-2.amazonaws.com
 IP-CIDR,103.87.204.0/22 
 IP-CIDR,108.175.32.0/20 
 IP-CIDR,185.2.220.0/22 
