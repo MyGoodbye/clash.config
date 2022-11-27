@@ -4,19 +4,7 @@ DOMAIN,cache.video.qiyi.com
 DOMAIN,subscription.iqiyi.com
 DOMAIN,cache.m.iqiyi.com
 DOMAIN,l.rcd.iqiyi.com
-DOMAIN,msg-intl.qy.net
-
-DOMAIN-SUFFIX,adsafeprotected.com
-DOMAIN-SUFFIX,bs.serving-sys.com
-DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
-DOMAIN-SUFFIX,api16-access-gcp.pangle.io
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,web.facebook.com
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
-DOMAIN-SUFFIX,launches.appsflyer.com
-DOMAIN-SUFFIX,telemetry.sdk.inmobi.com
-DOMAIN-SUFFIX,a.akamaiedge.net
+DOMAIN,iq.com
 
 # > MangoTV(芒果TV国际)
 DOMAIN-SUFFIX,api.mgtv.com
