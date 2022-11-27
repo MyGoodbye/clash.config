@@ -4,6 +4,7 @@ DOMAIN,cache.video.qiyi.com
 DOMAIN,subscription.iqiyi.com
 DOMAIN,cache.m.iqiyi.com
 DOMAIN,l.rcd.iqiyi.com
+DOMAIN,msg-intl.qy.net
 
 DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,bs.serving-sys.com
