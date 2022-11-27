@@ -1,3 +1,7 @@
+# > MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com
+DOMAIN,mobileso.bz.mgtv.com
+
 #bilibili
 DOMAIN-SUFFIX,apm-misaka.biliapi.net 
 DOMAIN-SUFFIX,bilibili.tv
