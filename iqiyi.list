@@ -2,5 +2,5 @@
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,cache.video.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
-IP-CIDR,219.76.10.122/32
-IP-CIDR,219.76.10.74/32
+DOMAIN-SUFFIX,pa.googleapis.com
+DOMAIN-SUFFIX,pubads.g.doubleclick.net
