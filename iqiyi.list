@@ -6,6 +6,7 @@ DOMAIN,intl-subscription.iqiyi.com
 
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,inter.iqiyi.com
+DOMAIN-SUFFIX,ip.geo.iqiyi.com
 
 IP-CIDR,23.53.32.88/32,no-resolve
 IP-CIDR,23.211.15.99/32,no-resolve
