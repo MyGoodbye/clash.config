@@ -3,7 +3,10 @@ DOMAIN-SUFFIX,iq.com
 DOMAIN,intl.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
+
 DOMAIN,qosp.iqiyi.com
+DOMAIN,intl-im-hist-api.iqiyi.com
+
 IP-CIDR,23.53.32.88/32,no-resolve
 IP-CIDR,23.211.15.99/32,no-resolve
 IP-CIDR,103.5.34.153/32,no-resolve
