@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,iqiyipic.com
 
 DOMAIN-SUFFIX,intl-im-hist-api.iqiyi.com
+IP-CIDR,159.138.102.146/32
+IP-CIDR,110.238.107.47/32
