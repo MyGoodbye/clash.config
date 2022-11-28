@@ -4,7 +4,11 @@ DOMAIN-SUFFIX,cards-css.iqiyi.com
 DOMAIN-SUFFIX,qosp.iqiyi.com
 DOMAIN-SUFFIX,data.video.iqiyi.com
 DOMAIN-SUFFIX,pangle.io
-
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,spotxchange.com
+DOMAIN-SUFFIX,secure.insightexpressai.com
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,csi-gstatic.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 
 DOMAIN-SUFFIX,inmobi.com
@@ -34,3 +38,13 @@ DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,intl-im-hist-api.iqiyi.com
 IP-CIDR,159.138.102.146/32
 IP-CIDR,110.238.107.47/32
+IP-CIDR,120.53.53.53/32
+IP-CIDR,1.12.12.12/32
+IP-CIDR,139.175.41.41/32
+IP-CIDR,219.76.10.74/32
+IP-CIDR,23.76.71.71/32
+IP-CIDR,118.26.32.75/32
+IP-CIDR,203.211.4.193/32
+IP-CIDR,118.26.120.12/32
+IP-CIDR,47.246.16.48/32
+IP-CIDR,203.80.97.203/32
