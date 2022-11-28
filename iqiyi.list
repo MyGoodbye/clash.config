@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,iqiyi
 DOMAIN-SUFFIX,iq.com
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
+DOMAIN-SUFFIX,launches.appsflyer.com
 
 IP-CIDR,110.238.107.47/32
 IP-CIDR,122.190.65.185/32
