@@ -12,7 +12,8 @@ DOMAIN-SUFFIX,csi-gstatic.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 DOMAIN-SUFFIX,intl.rcd.iqiyi.com
 DOMAIN-SUFFIX,inmobi.com
-
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,xp.apple.com
 
 DOMAIN-SUFFIX,scs-hcdn.iqiyi.com
@@ -50,3 +51,7 @@ IP-CIDR,47.246.16.48/32
 IP-CIDR,203.80.97.203/32
 IP-CIDR,118.26.120.13/32
 IP-CIDR,210.201.32.11/32
+IP-CIDR,203.198.80.99/32
+IP-CIDR,161.117.88.189/32
+IP-CIDR,111.48.119.197/32
+IP-CIDR,111.202.75.227/32
