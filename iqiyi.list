@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,secure.insightexpressai.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,csi-gstatic.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
-
+DOMAIN-SUFFIX,intl.rcd.iqiyi.com
 DOMAIN-SUFFIX,inmobi.com
 
 DOMAIN-SUFFIX,xp.apple.com
@@ -48,3 +48,5 @@ IP-CIDR,203.211.4.193/32
 IP-CIDR,118.26.120.12/32
 IP-CIDR,47.246.16.48/32
 IP-CIDR,203.80.97.203/32
+IP-CIDR,118.26.120.13/32
+IP-CIDR,210.201.32.11/32
