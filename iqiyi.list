@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,pa.googleapis.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ads.inmobi.com
+IP-CIDR,8.219.137.173/32
