@@ -4,5 +4,8 @@ DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,api.iq.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
-
-IP-CIDR,59.36.206.156/32,no-resolve
+DOMAIN-SUFFIX,api.iqiyi.com
+DOMAIN-SUFFIX,intl.iqiyi.com
+DOMAIN-SUFFIX,passport.iq.com
+DOMAIN-SUFFIX,i.vip.iq.com
+DOMAIN-SUFFIX,msg-intl.qy.net
