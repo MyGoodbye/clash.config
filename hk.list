@@ -256,7 +256,7 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
-IP-CIDR,199.232.68.133
+IP-CIDR,199.232.68.133/32
 
 #heroku
 DOMAIN-SUFFIX,heroku.com
