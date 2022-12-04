@@ -1,2 +1,5 @@
 # 愛奇藝
 DOMAIN-SUFFIX,api.iq.com
+DOMAIN-SUFFIX,cache-video.iq.com
+DOMAIN-SUFFIX,subscription.iqiyi.com
+DOMAIN-SUFFIX,l.rcd.iqiyi.com
