@@ -25,4 +25,4 @@ DOMAIN-SUFFIX,p.bstarstatic.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 
-IP-CIDR,159.138.102.146/32,no-resolve
+DOMAIN-SUFFIX,intl-im-hist-api.iqiyi.com
