@@ -25,4 +25,5 @@ DOMAIN-SUFFIX,p.bstarstatic.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 
-DOMAIN-SUFFIX,th.inter.iqiyi.com
+DOMAIN-SUFFIX,intl-rcd.iqiyi.com
+DOMAIN-SUFFIX,intl-api.iq.com
