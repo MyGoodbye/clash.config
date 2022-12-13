@@ -1,11 +1,8 @@
 #wetv
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
-
-DOMAIN-SUFFIX,pbacc.wetvinfo.com
-DOMAIN-SUFFIX,acc.wetvinfo.com
-DOMAIN-SUFFIX,play.wetvinfo.com
-DOMAIN-SUFFIX,hkm.film.wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,rdelivery.qq.com
 
 
