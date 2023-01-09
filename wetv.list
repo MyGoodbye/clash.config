@@ -3,7 +3,19 @@ DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN-SUFFIX,unipay.qq.com
+DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,config.ab.qq.com
+DOMAIN-SUFFIX,wuji.video.qq.com
+DOMAIN-SUFFIX,rdelivery.qq.com
+DOMAIN-SUFFIX,szmg.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,omgid.qq.com
+DOMAIN-SUFFIX,h.trace.qq.com
 
 
 DOMAIN-SUFFIX,apm-misaka.biliapi.net 
