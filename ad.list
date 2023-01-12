@@ -26,7 +26,6 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
 DOMAIN-KEYWORD,bayescom
-DOMAIN-SUFFIX,ut.taobao.com
 DOMAIN-SUFFIX,bayescom.com
 DOMAIN-SUFFIX,bayescom.cn
 DOMAIN-SUFFIX,hectorstatic.baidu.com
@@ -34,9 +33,7 @@ DOMAIN-SUFFIX,mpush-api.aliyun.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,adsmind.ugdtimg.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,log.umsns.com
