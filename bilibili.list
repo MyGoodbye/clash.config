@@ -1,8 +1,6 @@
 #bilibili
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
-DOMAIN,api.biliapi.com
-DOMAIN,api.biliapi.net
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
