@@ -2,6 +2,25 @@
 #DOMAIN-SUFFIX,api.mgtv.com
 #DOMAIN,mobileso.bz.mgtv.com
 
+DOMAIN,app.bilibili.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,upos-sz-mirrorcosov.bilivideo.com
+DOMAIN,static.hdslb.com
+DOMAIN,m.bilibili.com
+DOMAIN,www.bilibili.com
+DOMAIN,i2.hdslb.com
+DOMAIN,data.bilibili.com
+DOMAIN,api.sobot.com
+DOMAIN,i1.hdslb.com
+DOMAIN,cm.bilibili.com
+DOMAIN,member.bilibili.com
+DOMAIN,password.bilibili.com
+DOMAIN,grpc.biliapi.net
+DOMAIN,i0.hdslb.com
+DOMAIN,mall.bilibili.com
+DOMAIN,dataflow.biliapi.com
+DOMAIN,chat.bilibili.com
+
 #netflix
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN,netflix.com.edgesuite.net 
