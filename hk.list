@@ -20,6 +20,8 @@ DOMAIN,i0.hdslb.com
 DOMAIN,mall.bilibili.com
 DOMAIN,dataflow.biliapi.com
 DOMAIN,chat.bilibili.com
+DOMAIN,bilicdn1.com
+DOMAIN,bilicdn2.com
 
 #netflix
 DOMAIN-SUFFIX,netflix.ca
