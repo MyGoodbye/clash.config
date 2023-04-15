@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
+PROCESS-NAME,com.bstar.intl
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
