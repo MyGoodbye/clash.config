@@ -1,5 +1,5 @@
 #bilibili
-DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN,api.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
 PROCESS-NAME,com.bstar.intl
