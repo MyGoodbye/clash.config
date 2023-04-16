@@ -3,7 +3,8 @@ DOMAIN,api.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
 PROCESS-NAME,com.bstar.intl
-
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
