@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,prod.ftl.netflix.com
 IP-CIDR,45.57.59.151/32
 
+DOMAIN-SUFFIX,apm-misaka.biliapi.net 
+DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+DOMAIN-SUFFIX,p.bstarstatic.com 
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+
 #亚马逊视频
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
