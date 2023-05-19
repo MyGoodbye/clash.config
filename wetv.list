@@ -19,13 +19,6 @@ DOMAIN-SUFFIX,h.trace.qq.com
 DOMAIN-SUFFIX,aegis.qq.com
 DOMAIN-SUFFIX,content.rfix.tdos.vip
 
-
-DOMAIN-SUFFIX,apm-misaka.biliapi.net 
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
-DOMAIN-SUFFIX,p.bstarstatic.com 
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
-
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
 IP-CIDR,118.26.32.162/32,no-resolve
