@@ -23,6 +23,16 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,video.friday.tw
+DOMAIN-SUFFIX,fridaylogger.com
+IP-CIDR,142.250.204.129/24
+IP-CIDR,23.202.35.58/24
+IP-CIDR,23.202.35.9/24
+IP-CIDR,47.244.67.197/24
+IP-CIDR,18.208.17.244/24
+IP-CIDR,220.228.38.30/24
+IP-CIDR,142.250.204.129/24
+IP-CIDR,172.217.25.10/24
+
 
 DOMAIN,weblivead-hamivideo.cdn.hinet.net
 DOMAIN,webvodad-hamivideo.cdn.hinet.net
