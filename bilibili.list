@@ -1,4 +1,9 @@
 #bilibili
+DOMAIN,api.bilibili.com
+DOMAIN-SUFFIX,api.vc.bilibili.com
+PROCESS-NAME,com.bstar.intl
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
@@ -6,7 +11,6 @@ DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
-PROCESS-NAME,com.bstar.intl
 
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
