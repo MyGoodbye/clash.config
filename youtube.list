@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,music.youtube.com
 
 # YouTube
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
