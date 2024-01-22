@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,profile.line-scdn.net
 DOMAIN,kktv-theater.kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 
