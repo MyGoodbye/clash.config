@@ -1,7 +1,7 @@
 # > MangoTV(芒果TV国际)
 #DOMAIN-SUFFIX,api.mgtv.com
 #DOMAIN,mobileso.bz.mgtv.com
-
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,mygoodbye.vercel.app
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
