@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-SUFFIX,friday.tw
+
 # > bilibili 国际版
 DOMAIN,api.bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
@@ -227,3 +230,20 @@ DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,wetv.vip
+
+DOMAIN,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
+DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,viu.tv
