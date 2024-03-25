@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,api.live.bilibili.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 
+#gagaoolala
+DOMAIN-SUFFIX,gagaoolala.com
+DOMAIN-SUFFIX,gol-ns-videos.akamaized.net
+
 # > iqiyi 国际版
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,qy.net
