@@ -9,6 +9,22 @@ DOMAIN-SUFFIX,api.live.bilibili.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 
+#Netflix
+DOMAIN-SUFFIX,appboot.netflix.com
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,us-west-2.amazonaws.com
+DOMAIN-SUFFIX,prod.cloud.netflix.com
+DOMAIN-SUFFIX,ichnaea-web.netflix.com
+DOMAIN-SUFFIX,oca.nflxvideo.net
+DOMAIN-SUFFIX,prod.ftl.netflix.com
+IP-CIDR,45.57.59.151/32
+
+DOMAIN-SUFFIX,apm-misaka.biliapi.net 
+DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+DOMAIN-SUFFIX,p.bstarstatic.com 
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+
 #gagaoolala
 DOMAIN-SUFFIX,gagaoolala.com
 DOMAIN-SUFFIX,gol-ns-videos.akamaized.net
