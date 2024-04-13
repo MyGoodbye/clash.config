@@ -2,12 +2,29 @@ DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,friday.tw
 
 # > bilibili 国际版
+#DOMAIN,api.bilibili.com
+#DOMAIN-SUFFIX,bilivideo.com
+#DOMAIN-SUFFIX,app.bilibili.com
+#DOMAIN-SUFFIX,api.live.bilibili.com
+#DOMAIN-SUFFIX,biliapi.com
+#DOMAIN-SUFFIX,biliapi.net
+DOMAIN,api.bilibili.tv
+DOMAIN,app.bilibili.com
+DOMAIN,passport.bilibili.com
+DOMAIN,grpc.biliapi.net
+DOMAIN,broadcast.chat.bilibili.com
 DOMAIN,api.bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,app.bilibili.com
-DOMAIN-SUFFIX,api.live.bilibili.com
+DOMAIN,cm.bilibili.com
+DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
+IP-CIDR,106.75.74.76/32
+IP-CIDR,111.206.25.147/32
+IP-CIDR,119.3.238.64/32
+IP-CIDR,120.92.108.182/32
+IP-CIDR,120.92.113.99/32
+IP-CIDR,120.92.153.217/32
+IP-CIDR,134.175.207.130/32
+IP-CIDR,203.107.1.0/24
 
 #Netflix
 DOMAIN-SUFFIX,appboot.netflix.com
@@ -18,12 +35,6 @@ DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,prod.ftl.netflix.com
 IP-CIDR,45.57.59.151/32
-
-DOMAIN-SUFFIX,apm-misaka.biliapi.net 
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
-DOMAIN-SUFFIX,p.bstarstatic.com 
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
 
 #gagaoolala
 DOMAIN-SUFFIX,gagaoolala.com
@@ -207,12 +218,6 @@ DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,prod.ftl.netflix.com
 IP-CIDR,45.57.59.151/32
-
-DOMAIN-SUFFIX,apm-misaka.biliapi.net 
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
-DOMAIN-SUFFIX,p.bstarstatic.com 
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
 
 #亚马逊视频
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
