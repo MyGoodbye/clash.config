@@ -32,6 +32,7 @@ IP-CIDR,199.232.68.133/32
 
 #heroku
 DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,tw.search.yahoo.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-KEYWORD,telegram 
