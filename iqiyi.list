@@ -2,17 +2,12 @@ DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,friday.tw
 
 # > bilibili 国际版
-DOMAIN-SUFFIX,bilibili.com
-#DOMAIN-SUFFIX,app.bilibili.com
-#DOMAIN-SUFFIX,api.live.bilibili.com
-#DOMAIN-SUFFIX,biliapi.com
-#DOMAIN-SUFFIX,biliapi.net
+DOMAIN,akamaized.net
+DOMAIN,hdslb.com
+DOMAIN,bilibili.com
+DOMAIN,szbdyd.com
 DOMAIN,api.bilibili.tv
-DOMAIN,passport.bilibili.com
 DOMAIN,grpc.biliapi.net
-DOMAIN,broadcast.chat.bilibili.com
-DOMAIN,api.bilibili.com
-DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biliapi.com
 IP-CIDR,106.75.74.76/32
