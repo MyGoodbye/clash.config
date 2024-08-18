@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,friday.tw
 # > bilibili 国际版
 DOMAIN-SUFFIX,bangumi.bilibili.com
 DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN-SUFFIX,search.bilibili.com
 
 #Netflix
 DOMAIN-SUFFIX,appboot.netflix.com
