@@ -284,12 +284,6 @@ DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
 #PROCESS-NAME,com.amazon.avod.thirdpartyclient
 
-#wetv
-DOMAIN-SUFFIX,iflix-images.akamaized.net
-DOMAIN-SUFFIX,iflix.com
-DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-SUFFIX,wetv.vip
-
 DOMAIN,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,digicert.com
