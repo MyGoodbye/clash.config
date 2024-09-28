@@ -1,8 +1,8 @@
-#Tencentvideo
+
 DOMAIN-SUFFIX,mfm.video.qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
-#game
+
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,originasserts.akamaized.net
 DOMAIN,gog.salesmanago.com
