@@ -6,6 +6,17 @@ DOMAIN-SUFFIX,prod.cloud.netflix.com
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,prod.ftl.netflix.com
+DOMAIN-SUFFIX,chujingservice.com
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,dbankcdn.com
+DOMAIN-SUFFIX,chujingapp.com
+DOMAIN-SUFFIX,vcck.cn
+DOMAIN-SUFFIX,harmonylead.com
+IP-CIDR,45.57.59.151/32
+IP-CIDR,180.76.76.76/32
+IP-CIDR,172.64.41.4/32
+IP-CIDR,162.159.61.4/32
 IP-CIDR,45.57.59.151/32
 
 DOMAIN-SUFFIX,apm-misaka.biliapi.net 
